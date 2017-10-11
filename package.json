@@ -1,0 +1,22 @@
+{
+  "name": "scp-quotes-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Giovanni-silva-ir/scp-quotes-generator.git"
+  },
+  "author": "'Gigio' <'giovanni.silva@socopa.com.br'>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Giovanni-silva-ir/scp-quotes-generator/issues"
+  },
+  "homepage": "https://github.com/Giovanni-silva-ir/scp-quotes-generator#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
